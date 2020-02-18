@@ -1,3 +1,3 @@
-This is a Linux.
-Created at Linux machine.
-Updated by Ubuntu User.
+This is a Linux File.
+Created at Linux Machin.
+Updated again by Linx User and Conflict resolved.

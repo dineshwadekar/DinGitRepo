@@ -1,0 +1,2 @@
+This is a file created in feature branch.
+You can consider this is the RTC/Jira task.
